@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TS_UI_FB_LANG" verbose="1">
+    <test name="TC_UI_FB_LANG_03_001">
+        <classes>
+            <class name="com.fcb.prjct.test_suites.TS_UI_FB_LANG_03.TC_UI_FB_LANG_03_001"></class>
+        </classes>
+    </test>
+</suite>

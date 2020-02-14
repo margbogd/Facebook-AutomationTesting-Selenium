@@ -1,0 +1,28 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TS_UI_FB_LGN" verbose="1">
+    <test name="TC_UI_FB_LGN_01_001">
+        <classes>
+            <class name="com.fcb.prjct.test_suites.TS_UI_FB_LGN_01.TC_UI_FB_LGN_01_001"></class>
+        </classes>
+    </test>
+    <test name="TC_UI_FB_LGN_01_002">
+        <classes>
+            <class name="com.fcb.prjct.test_suites.TS_UI_FB_LGN_01.TC_UI_FB_LGN_01_002"></class>
+        </classes>
+    </test>
+    <test name="TC_UI_FB_CRT_02_001">
+        <classes>
+            <class name="com.fcb.prjct.test_suites.TS_UI_FB_CRT_02.TC_UI_FB_CRT_02_001"></class>
+        </classes>
+    </test>
+    <test name="TC_UI_FB_CRT_02_002">
+        <classes>
+            <class name="com.fcb.prjct.test_suites.TS_UI_FB_CRT_02.TC_UI_FB_CRT_02_002"></class>
+        </classes>
+    </test>
+    <test name="TC_UI_FB_LANG_03_001">
+        <classes>
+            <class name="com.fcb.prjct.test_suites.TS_UI_FB_LANG_03.TC_UI_FB_LANG_03_001"></class>
+        </classes>
+    </test>
+</suite>

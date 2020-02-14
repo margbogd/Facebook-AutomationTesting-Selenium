@@ -21,5 +21,7 @@ public class TC_UI_FB_LGN_01_001 extends BaseTest {
         fbLgn.verifyFBLoginPageOpens();
         fbLgn.verifyInputsVisibility();
         fbLgn.verifyLoginBtnVisibility();
+//        fbLgn.fillInputs();
+//        fbLgn.clickLogin();
     }
 }

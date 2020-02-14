@@ -32,7 +32,7 @@ public class BaseTest {
     public void setUp() {
 
         System.setProperty("webdriver.chrome.driver",
-                "C:/Users/mbogdanou/Desktop/Margarita/refactoring-pom-la/src/main/resources/chromedriver.exe"); //TODO CHANGE PATH BEFORE GITHUBING IT 
+                "C:/Users/xxx/Downloads/chromedriver.exe"); //TODO you have to put a valid path
 
         driver = new ChromeDriver();
 
